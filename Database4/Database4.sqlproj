@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="ExternalTable1.sql" />
+    <Build Include="ExternalTable2.sql" />
   </ItemGroup>
 </Project>
